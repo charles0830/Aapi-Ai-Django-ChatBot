@@ -3,7 +3,7 @@ The project is built with Django and HTML, CSS, JS.
 
 ## Local Setup
 - [Fork](https://github.com/PranavDalvi/Django-ChatBot/fork) this repository.
-- *Note: You need python and some of its libries like (django, nltk, numpy, tensorflow) to run and test the code which can be install pip*
+- *Note: You need python and some of its libraries like (django, nltk, numpy, tensorflow) to run and test the code which can be installed using pip - Python's package manager.
 - requirements.txt has details of all the dependencies which are needed to run this project. To run the project steps are given below:
 
 - To understand the steps given below, you should know how to create a new Django project and a Python virtual environment.
